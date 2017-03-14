@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<html lang="en">
+<head>
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style></style>
+</head>
+<body>
+<div class="container">
+    <h1>My First Bootstrap Page <small> Small text to <mark>Highlight</mark> with heading</small></h1>
+    <div class="row">
+        <div class="col-sm-4">.col-sm-4</div>
+        <div class="col-sm-4">.col-sm-4</div>
+        <div class="col-sm-4">.col-sm-4</div>
+    </div>
+    <h1>Blockquotes</h1>
+    <p>The blockquote element is used to present content from another source:</p>
+    <blockquote>
+        <p>For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.</p>
+        <footer>From WWF's website</footer>
+    </blockquote>
+      <pre>
+        Text in a pre element
+        is displayed in a fixed-width
+        font, and it preserves
+        both      spaces and
+        line breaks.
+       </pre>
+    <h1 class="page-header">Table</h1>
+    <div class="table-responsive jumbotron">
+        <table class="table table-striped ">
+            <thead>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Email</th>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Sai</td>
+                <td>Ram</td>
+                <td>sai.hockey@gmail.com</td>
+            </tr>
+            <tr>
+                <td>Sai</td>
+                <td>Ram</td>
+                <td>sai.hockey@gmail.com</td>
+            </tr>
+            <tr>
+                <td>Sai</td>
+                <td>Ram</td>
+                <td>sai.hockey@gmail.com</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <h1 class="page-header">Alerts</h1>
+    <div class="alert alert-success alert-dismissable">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        <strong>Success!</strong> Indicates a successful or positive action.
+    </div>
+    <h1 class="page-header">Drop down</h1>
+    <div class="btn-group">
+        <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+            Sony <span class="caret"></span></button>
+        <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Tablet</a></li>
+            <li><a href="#">Smartphone</a></li>
+        </ul>
+    </div>
+    <h1 class="page-header">Button Group</h1>
+    <div class="btn-group">
+        <button type="button" class="btn btn-primary">Apple</button>
+        <button type="button" class="btn btn-primary">Samsung</button>
+        <button type="button" class="btn btn-primary">Sony</button>
+    </div>
+    <h1 class="page-header">Badge and labels</h1>
+    <a href="javascript:void(0);" >New <span class="label label-default">5</span></a>
+    <a href="javascript:void(0);" >Comment <span class="badge">10</span></a>
+    <h1 class="page-header">Pagination</h1>
+    <ul class="pagination pagination-lg">
+        <li class="active" ><a href="javascript:void(0);" >1</a></li>
+        <li><a href="javascript:void(0);" >2</a></li>
+        <li><a href="javascript:void(0);" >3</a></li>
+        <li class="disabled" ><a href="javascript:void(0);" >4</a></li>
+        <li><a href="javascript:void(0);" >5</a></li>
+    </ul>
+    <h1 class="page-header">Breadcrumbs</h1>
+    <ul class="breadcrumb">
+        <li class="active" ><a href="javascript:void(0);" >Page 1</a></li>
+        <li><a href="javascript:void(0);" >Page 2</a></li>
+        <li><a href="javascript:void(0);" >Page 3</a></li>
+        <li><a href="javascript:void(0);" >Page 4</a></li>
+        <li><a href="javascript:void(0);" >Page 5</a></li>
+    </ul>
+    <h1 class="page-header">Pager</h1>
+    <ul class="pager">
+        <li class="previous"><a href="javascript:void(0)">Previous</a></li>
+        <li class="next"><a href="javascript:void(0)">Next</a></li>
+    </ul>
+    <h1 class="page-header">List Groups</h1>
+    <ul class="list-group">
+        <a class="list-group-item active">List 1 <span class="badge">5</span></a>
+        <a class="list-group-item disabled">List 2 <span class="badge">10</span></a>
+    </ul>
+    <h1 class="page-header">Dropdown</h1>
+    <div class="dropdown">
+        <button class="btn btn-success dropdown-toggle" type="button" data-toggle="dropdown">Dropdown button<span class="caret"></span></button>
+        <ul class="dropdown-menu">
+            <li><a href="javascript:void(0)">HTML</a></li>
+            <li><a href="javascript:void(0)">CSS</a></li>
+            <li class="divider"></li>
+            <li class="dropdown-header">Dropdown header</li>
+            <li><a href="javascript:void(0)">BootStrap</a></li>
+        </ul>
+    </div>
+    <h1 class="page-header">Collapse Contents</h1>
+    <div>
+        <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#collapsedata">Collapse</button>
+        <div id="collapsedata" class="collapse">Collapse content</div>
+    </div>
+    <h1 class="page-header">Panel Collapse</h1>
+    <div class="panel-group">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <a href="#collapsedata2" data-toggle="collapse" >Panel Group 1 </a>
+            </div>
+            <div id="collapsedata2" class="panel-collapse collapse">Collapse content</div>
+        </div>
+    </div>
+    <h1 class="page-header">Panel</h1>
+    <div class="panel panel-default">
+        <div class="panel-heading">Panel Heading gives the panel heading</div>
+        <div class="panel-body">A basic panel content to display
+            A basic panel content to display
+            <ul>
+                <li>A basic panel content to display</li>
+                <li>A basic panel content to display</li>
+                <li>A basic panel content to display</li>
+            </ul>
+        </div>
+        <div class="panel-footer">Panel Heading gives the panel footer</div>
+    </div>
+
+</div>
+</body>
+</html>
