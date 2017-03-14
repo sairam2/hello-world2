@@ -1,0 +1,344 @@
+element.style {
+}
+<style>…</style>
+div#document.hmargins {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+<style>…</style>
+div#document.vmargins {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+<style>…</style>
+div#document.pagesize {
+    width: 562px;
+}
+<style>…</style>
+div#document.hmargins {
+    padding-left: {$LRMR}px;
+    padding-right: {$LRMR}px;
+}
+<style>…</style>
+div#document.vmargins {
+    padding-top: {$TBMR}px;
+    padding-bottom: {$TBMR}px;
+}
+<style>…</style>
+div#document.pagesize {
+    width: {$DOCW}px;
+}
+<style>…</style>
+div#document {
+    line-height: 14px;
+}
+<style>…</style>
+div#document {
+    line-height: {$FTLH}px;
+}
+#document {
+    height: 100%;
+}
+#document, #dummyDocument {
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+<style>…</style>
+.fontface {
+    font-family: "Times New Roman", Times, serif;
+}
+<style>…</style>
+.fontsize {
+    font-size: 11px;
+}
+<style>…</style>
+.fontface {
+    font-family: {$FTFC};
+}
+<style>…</style>
+.fontsize {
+    font-size: {$FTSZ}px;
+}
+<style>…</style>
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+* {
+    -webkit-transition: color .25s,background-color .25s,border-color .25s,opacity .25s;
+    -moz-transition: color .25s,background-color .25s,border-color .25s,opacity .25s;
+    transition: color .25s,background-color .25s,border-color .5s,opacity .25s;
+}
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: none;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from div#sortabletest
+<style>…</style>
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+Inherited from div.major.majorDoc
+<style>…</style>
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+Inherited from div#resumeFinalPview
+<style>…</style>
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+Inherited from div.container.fo
+.main>.container {
+    padding-top: 35px;
+    position: relative;
+    font-size: 14px;
+}
+<style>
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+</style>
+Inherited from div#maincontent.main.fo
+<style>
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+</style>
+Inherited from form#aspnetForm
+<style>
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+</style>
+Inherited from body#ctl00_MasterPageBodyTag.bg.edit-resume-page.mpr-portal.gamified
+Style Attribute {
+    visibility: visible;
+    cursor: default;
+}
+<style>
+body {
+    line-height: 1;
+    background: #FFF;
+    text-align: left;
+    font-feature-settings: "liga" 0;
+    -moz-font-feature-settings: "liga" off;
+}
+</style>
+<style>
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+</style>
+Inherited from html.mpr-with-lc.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.cssreflections.csstransforms.csstransforms3d.csstransitions.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths.t-chrome.t-chrome53._Telerik_a11y
+<style>
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+html {
+    background: #fff;
+    color: #58585f;
+    font: 400 14px/1.5 Tahoma,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -ms-overflow-style: scrollbar;
+    -ms-text-size-adjust: 100%;
+}
+Pseudo ::before element
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: none;
+}
+Pseudo ::after element
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: none;
+}
+</style>
+
+<div id="sortabletest" style="background:none">
+                        <span id="display"></span>
+                        
+
+  
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-16">
+    <title>KARTHI V</title>
+    
+    
+    
+  
+  
+    <div id="document" class="fontsize fontface vmargins hmargins linespacing pagesize ui-sortable">
+      <div id="SECTION_PICT898390336" class=" firstsection"></div>
+      <div id="SECPRNT_CNTC898390331" class="combSection firstsection" onmouseover="javascript: SectionMouseOver('CNTC898390331');" onmouseout="javascript: SectionMouseOut('CNTC898390331');" style="position: relative;"><div id="SECTION_NAME898390335" class="section">
+        <div id="PARAGRAPH_898390335_1_589044134" class="paragraph PARAGRAPH_NAME firstparagraph">
+                <div class="name">
+                    <span class="field wwbw dib" id="898390335FNAM1">KARTHI</span> <span class="wwbw dib">
+                    </span> <span class="field lName wwbw dib" id="898390335LNAM1">V</span>
+                </div>
+            </div>
+      </div><div id="SECTION_CNTC898390331" class="section SECTION_CNTC">
+        <div id="PARAGRAPH_898390331_1_589044135" class="paragraph PARAGRAPH_CNTC firstparagraph">
+                <div class="address">
+                    <span class="field" id="898390331STRT1">No.17 muthappan street</span><span>,
+                    </span><span class="spaced field" id="898390331CITY1">Chennai</span><span>,
+                    </span><span class="spaced field" id="898390331STAT1">Tamil nadu</span><span>
+                    </span><span class="spaced field" id="898390331ZIPC1">631002</span> <span>
+                        | </span><span class="field" id="898390331HPHN1"></span> <span>(C)
+                            </span><span class="field" id="898390331CPHN1">9629578743</span> <span>
+                                | </span><span dependency="EMAI" class="field" id="898390331EMAI1">vkarthi2394@gmail.com</span>
+                                 
+                    
+                    
+                   
+                    
+                </div>
+            </div>
+      </div><a href="#" class="editPencil fa fa-pencil"></a><div class="overlayBg" id="overlayBg_CNTC898390331" style="position: absolute; background-color: rgb(153, 153, 153); opacity: 0.7; display: none; top: 0px; left: -20px; width: 602px; height: 62px;"></div><a class="btn btn-blue btn-shadow editSection" onclick="OpenEditPopupSingle(edithrf_CNTC898390331);" title="Edit" id="edithrf_CNTC898390331" href="#CNTC898390331" style="display: none; top: 11px; left: 211px;"><i class="icon-edit"></i>Edit Section</a></div>
+      
+      <div id="SECTION_SUMM898390337" class="section" style="position: relative;">
+        <div class="heading bottomborder">
+                <div id="SECTNAME_SUMM898390337" class="sectiontitle">Professional Summary</div>
+            </div>
+        <div id="PARAGRAPH_898390337_1_589048355" class="paragraph firstparagraph">
+                <div class="field singlecolumn" id="898390337FRFM1">Self-directed and motivated Software Engineer who works effectively in a dynamic environment. Fluent in <font>PHP&nbsp;</font>, <font>JQuery</font> and <font>SQL Server Management .</font></div>
+            </div>
+      <a href="#" class="editPencil fa fa-pencil"></a><i class="icon-move br3px fa fa-arrows" style="display: none;"></i><div class="overlayBg" id="overlayBg_SUMM898390337" style="position: absolute; background-color: rgb(153, 153, 153); opacity: 0.7; display: none; top: 0px; left: -20px; width: 602px; height: 47px;"></div><div class="overlayRenameBgInner" id="overlayRenameBg_SUMM898390337" style="display: none;"></div><a class="btn btn-blue btn-shadow editSection" onclick="OpenEditPopupSingle(edithrf_SUMM898390337);" title="Edit" id="edithrf_SUMM898390337" href="#SUMM898390337" style="display: none; top: 3.5px; left: 104px;"><i class="icon-edit"></i>Edit Section</a><a class="btn btn-gray btn-shadow editSection" onclick="OpenRenameSection(this);" title="Rename" id="renamehrf_SUMM898390337" href="#SUMM898390337" style="display: none; top: 3.5px; left: 239px;"><i class="icon-edit"></i>Rename</a><a class="btn btn-gray btn-shadow editSection" onclick="OpenDeleteSection(this);" title="Delete" id="deletehrf_SUMM898390337" href="#SUMM898390337" style="display: none; top: 3.5px; left: 359px;"><i class="icon-edit"></i>Delete</a></div>
+      <div id="SECTION_HILT898390334" class="section" style="position: relative;">
+        <div class="heading bottomborder">
+                <div id="SECTNAME_HILT898390334" class="sectiontitle">Skills</div>
+            </div>
+        <div id="PARAGRAPH_898390334_1_589047917" class="paragraph firstparagraph">
+                <div class="singlecolumn maincolumn">
+                    <table class="twocol">
+                        <tbody><tr>
+                            <td class="field twocol_1" id="898390334SKC11"><ul><li>PHP</li><li>JQuery</li><li>MySQL</li><li>Java (Basic)</li><li>CSS<br></li></ul></td>
+                            <td class="field twocol_2" id="898390334SKC21"><ul><li>HTML and XMLLinux</li><li>Javascript</li><li>MS SQL Server 2000</li><li>Software development lifecycle expert</li><li>Bootstrap</li></ul></td>
+                        </tr>
+                    </tbody></table>
+                </div>
+            </div>
+      <a href="#" class="editPencil fa fa-pencil"></a><i class="icon-move br3px fa fa-arrows" style="display: none;"></i><div class="overlayBg" id="overlayBg_HILT898390334" style="position: absolute; background-color: rgb(153, 153, 153); opacity: 0.7; display: none; top: 0px; left: -20px; width: 602px; height: 89px;"></div><div class="overlayRenameBgInner" id="overlayRenameBg_HILT898390334" style="display: none;"></div><a class="btn btn-blue btn-shadow editSection" onclick="OpenEditPopupSingle(edithrf_HILT898390334);" title="Edit" id="edithrf_HILT898390334" href="#HILT898390334" style="display: none; top: 24.5px; left: 104px;"><i class="icon-edit"></i>Edit Section</a><a class="btn btn-gray btn-shadow editSection" onclick="OpenRenameSection(this);" title="Rename" id="renamehrf_HILT898390334" href="#HILT898390334" style="display: none; top: 24.5px; left: 239px;"><i class="icon-edit"></i>Rename</a><a class="btn btn-gray btn-shadow editSection" onclick="OpenDeleteSection(this);" title="Delete" id="deletehrf_HILT898390334" href="#HILT898390334" style="display: none; top: 24.5px; left: 359px;"><i class="icon-edit"></i>Delete</a></div>
+      <div id="SECTION_EXPR898390333" class="section" style="position: relative;">
+        <div class="heading bottomborder">
+                <div id="SECTNAME_EXPR898390333" class="sectiontitle">Work History</div>
+            </div>
+        <div id="PARAGRAPH_898390333_1_589045486" class="paragraph firstparagraph">
+                <div class="singlecolumn">
+                    <span class="paddedline"><span class="jobtitle" id="898390333JTIT1">Software Engineer</span><span></span> <span class="datesWrapper">
+                            <span class="jobdates" format="%m/%Y" id="898390333JSTD1">05/2016</span><span>
+                                to </span><span class="jobdates" format="%m/%Y" id="898390333EDDT1">Current</span><br>
+                        </span></span><span class="paddedline"><span class="companyname" id="898390333COMP1">Micromen Software Solutions pvt ltd</span><span> – </span>
+                            <span class="joblocation jobcity" id="898390333JCIT1">Adayar</span><span>,
+                            </span><span class="joblocation jobstate" id="898390333JSTA1">Chennai</span><br>
+                        </span><span class="jobline" id="898390333JDES1"><p>Working with PHP , JQuery,SQL Database Management</p><p>Familiar with Windows and Linux (Centos) Operating Systems</p><p>Working here as Software developer with an ERP web application. Able to Functions well within a team of other developers and consultants. Creative and able to work independently.</p>Worked with an E-commerce website based on Construction domain which helps builders and contractors to interact and communicate with each other , we act as a medium between them . <br></span>
+                </div>
+            </div>
+      <a href="#" class="editPencil fa fa-pencil"></a><i class="icon-move br3px fa fa-arrows" style="display: none;"></i><div class="overlayBg" id="overlayBg_EXPR898390333" style="position: absolute; background-color: rgb(153, 153, 153); opacity: 0.7; display: none; top: 0px; left: -20px; width: 602px; height: 131px;"></div><div class="overlayRenameBgInner" id="overlayRenameBg_EXPR898390333" style="display: none;"></div><a class="btn btn-blue btn-shadow editSection" onclick="OpenEditPopupSingle(edithrf_EXPR898390333);" title="Edit" id="edithrf_EXPR898390333" href="#EXPR898390333" style="display: none; top: 45.5px; left: 104px;"><i class="icon-edit"></i>Edit Section</a><a class="btn btn-gray btn-shadow editSection" onclick="OpenRenameSection(this);" title="Rename" id="renamehrf_EXPR898390333" href="#EXPR898390333" style="display: none; top: 45.5px; left: 239px;"><i class="icon-edit"></i>Rename</a><a class="btn btn-gray btn-shadow editSection" onclick="OpenDeleteSection(this);" title="Delete" id="deletehrf_EXPR898390333" href="#EXPR898390333" style="display: none; top: 45.5px; left: 359px;"><i class="icon-edit"></i>Delete</a></div>
+      <div id="SECTION_EDUC898390332" class="section" style="position: relative;">
+        <div class="heading bottomborder">
+                <div id="SECTNAME_EDUC898390332" class="sectiontitle">Education</div>
+            </div>
+        <div id="PARAGRAPH_898390332_1_589046200" class="paragraph firstparagraph">
+                <div class="singlecolumn">
+                    <span class="paddedline"><span class="degree" id="898390332DGRE1">B.E</span><span>: </span><span class="programline" id="898390332STUY1">Computer Science</span><span></span>
+                        <span class="datesWrapper"><span class="jobdates" id="898390332GRYR1">2015</span> </span>
+                    </span><span class="paddedline"><span class="companyname companyname_educ" id="898390332SCHO1">Vel tech multi tech  Dr.RR Dr.SR Engineering  College</span><span> </span><span>-
+                        </span><span class="joblocation jobcity" id="898390332SCIT1">Avadi</span><span class="joblocation jobstate" id="898390332SSTA1"></span> </span><span class="paddedline"><span class="field" id="898390332GRPA1"></span>
+                        </span><span class="field" id="898390332FRFM1"><p><strong>PROJECT DETAILS</strong></p><p><strong>MAIN PROJECT: </strong>&nbsp;INNOVATION OF RANKING DECEPTION FOR MOBILE APPS</p><p><strong>DESCRIPTION:</strong> Ranking fraud in the mobile App market refers to fraudulent or deceptive activities which have a purpose of bumping up the Apps in the popularity list. A holistic view of ranking fraud and propose a ranking fraud detection system for mobile Apps. Here investigate two types of evidences, ranking based evidences and rating based evidences, by modeling Apps' ranking and rating behaviors through statistical hypothesis tests.</p><p><strong>TOOLS USED:</strong></p><ul><li><strong>Client on IDE: </strong>Net beans 7.1.2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><strong>Database Server:</strong> MySQL 5.0. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><strong>Database IDE:</strong> HeidiSQL</li><li><strong>LANGUAGES: </strong>HTML,CSS,PHP and MySQL</li></ul></span>
+                </div>
+            </div>
+      <a href="#" class="editPencil fa fa-pencil"></a><i class="icon-move br3px fa fa-arrows"></i><div class="overlayBg" id="overlayBg_EDUC898390332"></div><div class="overlayRenameBgInner" id="overlayRenameBg_EDUC898390332"></div><a class="btn btn-blue btn-shadow editSection" onclick="OpenEditPopupSingle(edithrf_EDUC898390332);" title="Edit" id="edithrf_EDUC898390332" href="#EDUC898390332" style="display: none;"><i class="icon-edit"></i>Edit Section</a><a class="btn btn-gray btn-shadow editSection" onclick="OpenRenameSection(this);" title="Rename" id="renamehrf_EDUC898390332" href="#EDUC898390332" style="display: none;"><i class="icon-edit"></i>Rename</a><a class="btn btn-gray btn-shadow editSection" onclick="OpenDeleteSection(this);" title="Delete" id="deletehrf_EDUC898390332" href="#EDUC898390332" style="display: none;"><i class="icon-edit"></i>Delete</a></div>
+      <div id="SECTION_CUST898398116" class="section" style="position: relative;">
+        <div class="heading bottomborder">
+                <div id="SECTNAME_CUST898398116" class="sectiontitle">WorkShop</div>
+            </div>
+        <div id="PARAGRAPH_898398116_1_589048715" class="paragraph firstparagraph">
+                <div class="field singlecolumn" id="898398116FRFM1"><ul><li>Attended a workshop WINDOWS STORE APP DEVELOPMENT organized by PANIMALAR ENGINEERING COLLEGE</li><li>Participated in PROGRAMME FOR INTERNATIONAL STUDENT ASSESMENT (PISA) in SCHOOL 2009</li></ul></div>
+            </div>
+      <a href="#" class="editPencil fa fa-pencil"></a><i class="icon-move br3px fa fa-arrows"></i><div class="overlayBg" id="overlayBg_CUST898398116"></div><div class="overlayRenameBgInner" id="overlayRenameBg_CUST898398116"></div><a class="btn btn-blue btn-shadow editSection" onclick="OpenEditPopupSingle(edithrf_CUST898398116);" title="Edit" id="edithrf_CUST898398116" href="#CUST898398116" style="display: none;"><i class="icon-edit"></i>Edit Section</a><a class="btn btn-gray btn-shadow editSection" onclick="OpenRenameSection(this);" title="Rename" id="renamehrf_CUST898398116" href="#CUST898398116" style="display: none;"><i class="icon-edit"></i>Rename</a><a class="btn btn-gray btn-shadow editSection" onclick="OpenDeleteSection(this);" title="Delete" id="deletehrf_CUST898398116" href="#CUST898398116" style="display: none;"><i class="icon-edit"></i>Delete</a></div>
+    </div>
+  
+
+                        <div id="dummyDocument" class="fontsize fontface vmargins hmargins linespacing pagesize dn" style="display: none;">
+                        </div>
+                        <div id="dummy" class="dn"></div>
+                    </div>
